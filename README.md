@@ -1,6 +1,7 @@
 # DesignPatterns
 Design Patterns by Tutorials
 
+![DesignPatterns by Tutorials](/DesignPatterns.png)
 
 This is my Repository for finishing the book Design Patterns by Tutorials (First Edition) in Swift 4 by Joshua Greene & Jay Strawn
 
