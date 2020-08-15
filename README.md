@@ -10,7 +10,7 @@ This Repository is to prove that I have finished reading the book, and also that
 ## Chapters
 - 01-What are Disign Patterns?
 - 02-How to Read a Class Diagram
-##### Fundamental Design Patterns
+##### Fundamental Design Patterns -(Rabble Wable)
 - 03-model-view-controller-pattern
 - 04-delegation-pattern
 - 05-strategy-pattern
@@ -18,7 +18,7 @@ This Repository is to prove that I have finished reading the book, and also that
 - 07-memento-pattern
 - 08-observer-pattern
 - 09-builder-pattern
-##### Intermediate Design Patterns
+##### Intermediate Design Patterns -(CoffeeQuest, MirrorPad)
 - 10-model-view-viewmodel-pattern
 - 11-factory-pattern
 - 12-adapter-pattern
@@ -27,7 +27,7 @@ This Repository is to prove that I have finished reading the book, and also that
 - 15-state-pattern
 - 16-multicast-delegate-pattern
 - 17-facade-pattern
-##### Advanced Design Patterns
+##### Advanced Design Patterns -(DefeatYourToDoList, RayWenToe, YetiJokes, YetiDate, RWSecret)
 - 18-flyweight-pattern
 - 19-mediator-pattern
 - 20-composite-pattern
